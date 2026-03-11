@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm  philbert</h1>
 <h3 align="center">A passionate frontend and Backend developer</h3>
 
-![I am Software Engineer]([[https://i.imgur.com/JM6wdNh.jpeg](https://iphil-kagaba-developer.vercel.app/pro.jpg)](https://iphil-kagaba-developer.vercel.app/pro.jpg))
+![I am Software Engineer](https://iphil-kagaba-developer.vercel.app/pro.jpg)
 
 <h3 align="center">A passionate software developer and software architects</h3>
 
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, javascript, AWS**
+ 🌱 I’m currently learning **Docker, Rust, AWS**
 
-💬 Ask me about **Node.js, React, Rust or anything [here](https://github.com/phil-kagaba/phil-kagaba/issues)**
+💬 Ask me about **Node.js, React, laravel or anything [here](https://github.com/phil-kagaba/phil-kagaba/issues)**
 
 ⚡ Fun fact **Leaning new this on software and IOT**
 
@@ -53,10 +53,3 @@
 </div>
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/phil-kagaba/phil-kagaba/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
